@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    margin: 30px
+}
+.main-content{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 25px;
+    display: flex;
+    align-items: flex-start;
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+}
+
+.main-content h2{
+    margin-top: 0;
+}

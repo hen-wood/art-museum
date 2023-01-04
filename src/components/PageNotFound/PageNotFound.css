@@ -1,0 +1,6 @@
+.not-found-wrapper {
+    width: 35vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

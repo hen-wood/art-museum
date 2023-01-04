@@ -1,0 +1,11 @@
+.page-wrapper {
+    max-width: 35vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+p{
+    text-align: justify;
+    font-weight: 600;
+}
